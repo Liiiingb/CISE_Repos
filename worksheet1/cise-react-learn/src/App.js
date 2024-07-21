@@ -11,12 +11,13 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aut.ac.nz"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Agile is about Values and Principles
+        Agile is about Values and Principles
         </a>
+
       </header>
     </div>
   );
